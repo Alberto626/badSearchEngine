@@ -1,9 +1,4 @@
-/*Alberto Landeros
- * CIN:306512276
- * CS2012 section 1 & 2
- * this program asks the user alot of questions which are if ur looking for a specific book,
- * which method will it be like ISBN, author name, or title but first it will ask which specific file it will ask for
- */
+
 package hw06;
 import java.util.Scanner;
 import java.io.File;
